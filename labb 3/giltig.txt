@@ -1,0 +1,19 @@
+[
+[land, [login]],
+[login, [edit, prof, so]],
+[edit, [prof, so]],
+[prof, [edit, so]],
+[so, [land]]
+].
+
+[
+[land, []],
+[login, []],
+[edit, [ar, ur, as]],
+[prof, [ur, as]],
+[so, [as]]
+].
+
+land.
+
+ef(as).
